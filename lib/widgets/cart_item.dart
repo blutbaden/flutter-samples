@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:music_app/providers/cart.dart';
+import 'package:demo_app/providers/cart.dart';
 import 'package:provider/provider.dart';
 
 class CartItem extends StatelessWidget {

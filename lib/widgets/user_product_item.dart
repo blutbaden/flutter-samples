@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:music_app/providers/products.dart';
-import 'package:music_app/screens/edit_product_screen.dart';
+import 'package:demo_app/providers/products.dart';
+import 'package:demo_app/screens/edit_product_screen.dart';
 import 'package:provider/provider.dart';
 
 class UserProductItem extends StatelessWidget {
